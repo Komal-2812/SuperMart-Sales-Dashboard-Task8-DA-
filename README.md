@@ -104,7 +104,3 @@ Using Power BI with proper data transformation, visualizations, and KPI cards.
 
 
 
-
-
-
-# SuperMart-Sales-Dashboard-Task8-DA-
